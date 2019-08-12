@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Dominio\bin\Debug\Dominio.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Dominio\bin\Debug\Dominio.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Dominio\obj\Debug\Dominio.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Dominio\obj\Debug\Dominio.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Dominio\obj\Debug\Dominio.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Dominio\obj\Debug\Dominio.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Dominio\obj\Debug\Dominio.vbprojResolveAssemblyReference.cache

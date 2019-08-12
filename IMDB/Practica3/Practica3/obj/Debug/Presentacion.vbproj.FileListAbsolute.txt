@@ -1,0 +1,17 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\bin\Debug\Practica3.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\bin\Debug\Dominio.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\bin\Debug\Persistencia.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\bin\Debug\Dominio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\bin\Debug\Dominio.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\bin\Debug\Persistencia.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\bin\Debug\Persistencia.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\obj\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\obj\Debug\Practica3.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\obj\Debug\Practica3.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\obj\Debug\Presentacion.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\obj\Debug\Practica3.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Practica3\obj\Debug\Practica3.pdb

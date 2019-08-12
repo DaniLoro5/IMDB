@@ -1,0 +1,12 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\bin\Debug\Persistencia.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\bin\Debug\Dominio.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\bin\Debug\Dominio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\bin\Debug\Dominio.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\obj\Debug\Persistencia.vbprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\obj\Debug\Persistencia.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\obj\Debug\Persistencia.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\obj\Debug\Persistencia.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Practica3\Persistencia\obj\Debug\Persistencia.pdb
